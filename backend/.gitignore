@@ -1,2 +1,15 @@
+# Ignore virtual environment
 env/
-_pycache_/
+
+# Ignore Python bytecode cache
+__pycache__/
+
+# Ignore other common files
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.DS_Store
