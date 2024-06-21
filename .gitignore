@@ -1,0 +1,105 @@
+# Node.js
+node_modules/
+dist/
+# Angular
+.angular/
+.angular/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.eggs/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.dat
+*.csv
+*.pkl
+*.h5
+*.log
+*.out
+*.sublime-project
+*.sublime-workspace
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.pip
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# pyenv
+.python-version
+# celery beat schedule file
+celerybeat-schedule
+# SageMath parsed files
+*.sage.py
+# Environments
+.env
+.env.test
+# Jupyter Notebook
+.ipynb_checkpoints
+# pyright
+typings/
+typings.json
+# virtualenv
+virtualenv/
+venv/
+
+# FastAPI
+logs/
+instance/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.idea/
+.vscode/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytest_cache/
+.coverage
+.tox/
+# Testing
+coverage.xml
+htmlcov/
+.pytest_cache/
+.cache/
+# Editor settings
+.idea/
+.vscode/
+*.swp
+*~
+.project
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
